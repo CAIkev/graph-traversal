@@ -1,6 +1,6 @@
 # Graph Traversals
 
-Search algorithms as maze solvers 
+Searching represented as solving a maze
 
 ## Demo
 
